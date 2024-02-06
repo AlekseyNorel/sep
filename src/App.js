@@ -1,9 +1,10 @@
 import React from 'react';
+import {Launches} from "./components/launches";
 
 const App = () => {
     return (
         <div>
-          asd
+          <Launches/>
         </div>
     );
 };
