@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc38f424-dce3-4aea-abc4-8604cf8d3b4b" name="Changes" comment="lesson04-hw">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostsContainet/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostsContainet/Post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostsContainet/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostsContainet/Posts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todosContainer/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todosContainer/Todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/albumsContainer/Album.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AlbumsContainer/Album.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/albumsContainer/Albums.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AlbumsContainer/Albums.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/commenstContainer/Comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CommenstContainer/Comment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/commenstContainer/Comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CommenstContainer/Comments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todosContainer/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodosContainer/Todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todosContainer/Todos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodosContainer/Todos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AlbumsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AlbumsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/CommentsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CommentsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/TodosPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/TodosPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

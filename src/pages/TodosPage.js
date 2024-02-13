@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {Todos} from "../components/todosContainer/Todos";
+import {Todos} from "../components/TodosContainer/Todos";
 
 const TodosPage = () => {
     return (
