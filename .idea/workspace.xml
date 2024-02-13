@@ -4,34 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc38f424-dce3-4aea-abc4-8604cf8d3b4b" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/src/components/Nav/Navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Nav/Navigation.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostsContainet/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostsContainet/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/albumsContainer/Album.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/albumsContainer/Albums.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/commenstContainer/Comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/commenstContainer/Comments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todosContainer/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/todosContainer/Todos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/urls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/MainLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/AlbumsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/CommentsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/PostsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/albumsService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/apiService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/commentsService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/todosService.js" afterDir="false" />
+    <list default="true" id="fc38f424-dce3-4aea-abc4-8604cf8d3b4b" name="Changes" comment="lesson04-hw">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/TodosPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostsContainet/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostsContainet/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostsContainet/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostsContainet/Posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todosContainer/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todosContainer/Todo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,21 +45,21 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "js.last.introduce.type": "CONST",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "E:\\IntelliJ IDEA 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;CONST&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\IntelliJ IDEA 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1707218988765</updated>
       <workItem from="1707218989729" duration="416000" />
-      <workItem from="1707816257809" duration="16594000" />
+      <workItem from="1707816257809" duration="17288000" />
+      <workItem from="1707840542280" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -110,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707816575458</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson04-hw">
+      <option name="closed" value="true" />
+      <created>1707837283478</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707837283478</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="lesson03-hw-task" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson03-hw-task" />
+    <MESSAGE value="lesson04-hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson04-hw" />
   </component>
 </project>
