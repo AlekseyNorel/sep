@@ -1,0 +1,17 @@
+.Navigation{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30px;
+    background-color: aqua;
+}
+
+.Navigation a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.Navigation a:hover{
+    color: crimson;
+}
