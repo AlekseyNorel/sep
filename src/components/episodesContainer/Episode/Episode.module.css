@@ -1,0 +1,15 @@
+.Episode{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 25%;
+    border: 1px solid rgb(39, 43, 51);
+}
+
+.Episode:hover{
+    cursor: pointer;
+    background-color: rgb(39, 43, 51);
+    color: white;
+}

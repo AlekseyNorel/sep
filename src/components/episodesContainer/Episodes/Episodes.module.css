@@ -1,0 +1,16 @@
+.Episodes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.prevNextPage {
+    display: flex;
+    justify-content: space-between;
+}
+
+.prevNextPage button {
+    padding: 10px;
+    cursor: pointer;
+    background-color: rgb(39, 43, 51);
+    color: white;
+}

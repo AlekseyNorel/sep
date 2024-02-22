@@ -1,0 +1,20 @@
+.Characters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: start;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    padding: 10px 40px;
+    font-size: 20px;
+    background-color: rgb(39, 43, 51);
+    color: white;
+    margin: 0 auto;
+    cursor: pointer;
+}

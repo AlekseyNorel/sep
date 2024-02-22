@@ -4,29 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc38f424-dce3-4aea-abc4-8604cf8d3b4b" name="Changes" comment="start">
+    <list default="true" id="fc38f424-dce3-4aea-abc4-8604cf8d3b4b" name="Changes" comment="main">
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/charactersContainet/Character/Character.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/charactersContainet/Character/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/charactersContainet/Characters/Characters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/charactersContainet/Characters/Characters.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/charactersContainet/Characters/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/charactersContainet/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/episodesContainer/Episode/Episode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/episodesContainer/Episode/Episode.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/episodesContainer/Episodes/Episodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/episodesContainer/Episodes/Episodes.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/episodesContainer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/urls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/usePageQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/MainLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CharactersPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/EpisodesPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/apiService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/charactersService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/episodesService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2bzXg3fz00FmV2qLWA96yaTfjDI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,15 +77,33 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "js.last.introduce.type": "CONST",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/sep2023/sep/src/components/charactersContainet/Character",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "E:\\IntelliJ IDEA 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\sep2023\sep\src\components\charactersContainet\Character" />
+      <recent name="E:\sep2023\sep\src\components\charactersContainet\Characters" />
+      <recent name="E:\sep2023\sep\src\components\episodesContainer" />
+      <recent name="E:\sep2023\sep\src\components\Header" />
+      <recent name="E:\sep2023\sep\src\layouts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\sep2023\sep\src\components\episodesContainer\Episodes" />
+      <recent name="E:\sep2023\sep\src\components\episodesContainer\Episode" />
+      <recent name="E:\sep2023\sep\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707219302420</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="main">
+      <option name="closed" value="true" />
+      <created>1708593019452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708593019452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +138,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="lesson06-hw-users" />
+    <MESSAGE value="main" />
+    <option name="LAST_COMMIT_MESSAGE" value="main" />
   </component>
 </project>
