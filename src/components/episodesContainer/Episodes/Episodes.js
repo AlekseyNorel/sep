@@ -3,7 +3,6 @@ import React, {useEffect, useState} from 'react';
 import {episodesService} from "../../../services";
 import {Episode} from "../Episode/Episode";
 import css from './Episodes.module.css'
-import {useSearchParams} from "react-router-dom";
 import {usePageQuery} from "../../../hooks";
 
 const Episodes = () => {
